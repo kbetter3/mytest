@@ -10,6 +10,8 @@ public class MySum {
 		new Sum5();
 		
 		System.out.println("new branch");
+		
+		System.out.println("this is master branch");
 	}
 }
 
