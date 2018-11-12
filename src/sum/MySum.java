@@ -8,6 +8,8 @@ public class MySum {
 		new Sum3();
 		new Sum4();
 		new Sum5();
+		
+		System.out.println("new branch");
 	}
 }
 
